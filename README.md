@@ -4,7 +4,7 @@
 📫 How to reach me **rawatanurag838@gmail.com**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-rawat-0089a3287) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anuragrwt9911) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-rawat-0089a3287) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anuragrwt99111) 
 
 # 💻 Tech Stack:
 
